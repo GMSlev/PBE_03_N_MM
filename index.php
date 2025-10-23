@@ -22,6 +22,7 @@
     <a href="aula07_02.php">aula07_02.php</a><br>
     <a href="aula08_01.php">aula08_01.php</a><br>
     <a href="aula09_01.php">aula09_01.php</a><br>
+    <a href="aula10_01.php">aula10_01.php</a><br>
     <?php
     echo "Comando pelo php novo<br>";
     echo "Gabriel Martinez Silva";
